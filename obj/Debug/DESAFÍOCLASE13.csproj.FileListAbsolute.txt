@@ -1,0 +1,7 @@
+C:\Users\jose\source\repos\DESAFÍOCLASE13\bin\Debug\DESAFÍOCLASE13.exe.config
+C:\Users\jose\source\repos\DESAFÍOCLASE13\bin\Debug\DESAFÍOCLASE13.exe
+C:\Users\jose\source\repos\DESAFÍOCLASE13\bin\Debug\DESAFÍOCLASE13.pdb
+C:\Users\jose\source\repos\DESAFÍOCLASE13\obj\Debug\DESAFÍOCLASE13.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\DESAFÍOCLASE13\obj\Debug\DESAFÍOCLASE13.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\DESAFÍOCLASE13\obj\Debug\DESAFÍOCLASE13.exe
+C:\Users\jose\source\repos\DESAFÍOCLASE13\obj\Debug\DESAFÍOCLASE13.pdb
